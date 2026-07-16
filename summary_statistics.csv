@@ -1,0 +1,9 @@
+Method,N,Success Rate,Failure Rate,Median Ending Wealth (survivors only),Average Failure Year (failures only),Average Failure Year
+Historical rolling-window,112,66.96%,33.04%,"$1,331,565",20.027027027027028,20.0
+i.i.d. Normal,10000,73.02%,26.98%,"$1,922,883",21.221275018532246,21.2
+i.i.d. Bootstrap,10000,74.75%,25.25%,"$1,911,418",21.29148514851485,21.3
+Block Bootstrap (3yr),10000,72.58%,27.42%,"$1,957,050",21.023340627279357,21.0
+Block Bootstrap (5yr),10000,71.93%,28.07%,"$1,880,307",20.926255789098683,20.9
+Block Bootstrap (10yr),10000,70.75%,29.25%,"$2,223,700",19.90153846153846,19.9
+Block Bootstrap (15yr),10000,70.94%,29.06%,"$2,262,876",19.970406056434964,20.0
+Block Bootstrap (20yr),10000,67.74%,32.26%,"$2,446,974",20.32703037817731,20.3
